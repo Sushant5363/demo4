@@ -1,1 +1,1 @@
-printf('my name is sushant')
+print ("hello")
